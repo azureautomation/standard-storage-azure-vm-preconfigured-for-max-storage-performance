@@ -1,0 +1,20 @@
+{
+    "Author": "William (Microsoft)",
+    "ContentSize": 32548,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/standard-storage-azure-vm-preconfigured-for-max-storage-performance/master/Azure_High_IO.ps1",
+    "DownloadCount": 3088,
+    "Id": "Automate-the-creation-of-e41aecf6",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 269,
+    "RaterCount": 3,
+    "Rating": 4.7,
+    "ReleaseDate": "2014-9-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script sample demonstrates how to utilize Azure PowerShell to deploy a Windows based virtual machine from the Azure image gallery and configure Storage Spaces to get the highest storage performance currently available.",
+    "Title": "Standard Storage Azure VM preconfigured for max storage performance",
+    "UpdatedDate": "2015-4-29T00:00:00",
+    "Url": "https://github.com/azureautomation/standard-storage-azure-vm-preconfigured-for-max-storage-performance",
+    "UserTags": "SQL Server, Microsoft Azure, Windows"
+}
